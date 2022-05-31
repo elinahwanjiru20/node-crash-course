@@ -1,8 +1,8 @@
-const peope = ['victor', 'ellenah',  'Ian']
+const people = ['victor', 'ellenah',  'Ian']
 const ages = [30, 22, 25];
-console.log(peope);
+console.log(people);
 
 module.exports = {
-    peope,ages
+    people,ages
 
 }
